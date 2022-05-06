@@ -1,2 +1,2 @@
 # Youtube-Logo
-This Python Program uses turtle for drawing mainly so The Youtube-Logo is made using python inbulit turtle
+Because this Python code primarily uses turtle for drawing, the Youtube logo was created with Python inbulit turtle.
